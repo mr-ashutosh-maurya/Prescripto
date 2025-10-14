@@ -8,7 +8,7 @@ import { Route, Routes } from 'react-router-dom';
 import Dashboard from './pages/Admin/Dashboard';
 import AllAppointments from './pages/Admin/AllAppointments';
 import DoctorsList from './pages/Admin/DoctorsList';
-import AddDoctor from './pages/Admin/addDoctor';
+import AddDoctor from './pages/Admin/AddDoctor';
 import { DoctorContext } from './context/DoctorContext';
 import DoctorDashboard from './pages/Doctor/DoctorDashboard';
 import DoctorProfile from './pages/Doctor/DoctorProfile';
